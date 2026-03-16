@@ -1,0 +1,5 @@
+{
+  "name": "Joyería María Eugenia",
+  "description": "Luxury jewelry store in Melilla featuring dynamic catalog, elegant design, and real-time interactions.",
+  "requestFramePermissions": ["geolocation"]
+}
